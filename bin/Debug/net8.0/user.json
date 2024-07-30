@@ -1,0 +1,24 @@
+[
+{
+    "userId": 0,
+    "phone": "456456778",
+    "email": "karosha@hotmail.com",
+    "name": "karosha",
+    "lastname": "Collazo",
+    "password": "P4SSw0rD!@#",
+    "salt": "",
+    "isActive": true,
+    "validatedAccount": true
+},
+{
+    "userId": 0,
+    "phone": "6861787493",
+    "email": "javiercastorena@hotmail.com",
+    "name": "Javier",
+    "lastname": "Castorena",
+    "password": "P4SSw0rD!@#",
+    "salt": "",
+    "isActive": true,
+    "validatedAccount": true
+  }
+]
